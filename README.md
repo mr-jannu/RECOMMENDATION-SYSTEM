@@ -37,9 +37,3 @@ This is a simple machine learning-based recommendation system built using Python
 - NumPy
 
 ## ▶️ How to Run
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/RECOMMENDATION-SYSTEM.git
-cd RECOMMENDATION-SYSTEM
