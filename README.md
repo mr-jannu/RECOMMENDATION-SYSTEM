@@ -35,5 +35,4 @@ This is a simple machine learning-based recommendation system built using Python
 - Pandas
 - Scikit-learn
 - NumPy
-
-## ▶️ How to Run
+- 
